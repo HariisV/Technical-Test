@@ -20,7 +20,7 @@
   // return [ 9, 7, 5, 3 ]
 ```
 ### Screenshot
-![screenshot](image/test-1.png)
+![screenshot](https://raw.githubusercontent.com/HariisV/Technical-Test/main/image/test-1.png)
 
 ## Soal 2
 -> menghitung berapa jumlah huruf yang berurutan dari text yang diberikan
@@ -56,7 +56,7 @@ console.log(hitungAngka('abcde'));
 // Output: [ { a: 1 }, { b: 1 }, { c: 1 }, { d: 1 }, { e: 1 } ]
 ```
 ### Screenshot
-![screenshot](image/test-2.png)
+![screenshot](https://raw.githubusercontent.com/HariisV/Technical-Test/main/image/test-2.png)
 
 ## Soal 3
 -> Mendapatkan total transaksi setiap user, kemudian di kelompokkan berdasarkan customer_id, setelah itu data di sort berdasarkan transaksi terbanyak.
@@ -114,4 +114,4 @@ ORDER BY TotalPenjualan DESC;
 ```
 
 ### Screenshot
-![screenshot](image/test-3.png)
+![screenshot](https://raw.githubusercontent.com/HariisV/Technical-Test/main/image/test-3.png)
